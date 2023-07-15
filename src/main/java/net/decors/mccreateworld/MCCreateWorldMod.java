@@ -11,7 +11,7 @@ public class MCCreateWorldMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		// new comment
+		// new comment 2
 		LOGGER.info("Hello Fabric world!");
 	}
 }
